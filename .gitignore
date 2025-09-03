@@ -1,0 +1,9 @@
+.env
+.ipynb_checkpoints/
+.venv/
+DONE/
+files/LLM.pdf
+files/apostila.pdf
+files/youtube
+ffmpeg.exe
+ffprobe.exe
